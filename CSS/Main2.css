@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css?family=Arimo:400,700');
+
+#humans_intro{
+    background-image: url("../IMG/fondospace.jpg");
+    background-size: cover;
+    color: #FFF;
+}
+
+body{
+    background-color: seashell;
+}
